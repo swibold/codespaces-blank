@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jacob Swibold Resume</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Jacob Swibold</h1>
+      <p>Student at the University of Oklahoma</p>
+      <div class="contact">
+        <a href="tel:+14056579228">📞 (405) 657-9228</a>
+        <a href="mailto:Jacob.Swibold@icloud.com">✉️ Jacob.Swibold@icloud.com</a>
+        <p>📍 1624 Deer Park Drive</p>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="summary">
+      <h2>Summary</h2>
+      <p>Hello! My name is Jacob Swibold and I currently attend the University of Oklahoma. I major in creative media production and minor in film and media studies. My passion is photography and videography. I would love to grow and make my own media agency or become a freelance photographer in the future.</p>
+    </section>
+
+    <section class="education">
+      <h2>Education</h2>
+      <ul>
+        <li><strong>University of Oklahoma</strong> - Bachelor’s Degree in Creative Media Production (2021 - Current)</li>
+        <li><strong>University of Oklahoma</strong> - Minor in Film and Media Studies (2021 - Current)</li>
+      </ul>
+    </section>
+
+    <section class="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>Strong organizational and time-management skills</li>
+        <li>Communication and interpersonal skills</li>
+        <li>Ability to work independently and as part of a team</li>
+        <li>Detail-oriented and able to handle multiple tasks simultaneously</li>
+      </ul>
+    </section>
+
+    <section class="work-experience">
+      <h2>Work Experience</h2>
+      <div class="job">
+        <h3>Valet Attendant</h3>
+        <p>PMC | 9/22 - 1/23</p>
+        <ul>
+          <li>Park hotel guests' vehicles in nearby parking garage.</li>
+          <li>Assist guests with their luggage and anything else to their room.</li>
+          <li>Manage big events with many vehicles and minimal assistance.</li>
+        </ul>
+      </div>
+      <div class="job">
+        <h3>Umpire</h3>
+        <p>Edmond Youth Sports Association | 5/23 - 8/23</p>
+        <ul>
+          <li>Manage little league baseball games at a local baseball park.</li>
+          <li>Teamwork required with multiple people working on the same field.</li>
+          <li>Achieve parent satisfaction for both teams.</li>
+        </ul>
+      </div>
+      <div class="job">
+        <h3>Assistant</h3>
+        <p>Heaven’s Best Carpet Cleaning | 5/21 - 8/21</p>
+        <ul>
+          <li>Develop professional relationships with customers and companies.</li>
+          <li>Call for future jobs and answer customer questions.</li>
+          <li>Maintain customer satisfaction by ensuring jobs are done efficiently and correctly.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="references">
+      <h2>References</h2>
+      <ul>
+        <li>Zach Ashton (Heaven’s Best): (405) 509-4361</li>
+        <li>Curt Swibold (EYSA): (405) 305-2135</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Jacob Swibold</p>
+    <a href="#">Download Resume</a>
+  </footer>
+</body>
+</html>
